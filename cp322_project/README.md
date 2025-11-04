@@ -1,8 +1,8 @@
 # CP322 Machine Learning Project
 ### Regression on Tabular Data: House Prices & Energy Efficiency (Method 2 – Algorithmic Improvement)
 
-**Team Members:** [List names & IDs]  
-**Due Date:** Dec 3, 2025  
+**Team Members:** [Bolu Owolabi, ]  
+
 
 This repository contains all code, notebooks, processed datasets, and demo assets for Topic 3 – Method 2 (algorithmic improvement on tabular regression).
 
