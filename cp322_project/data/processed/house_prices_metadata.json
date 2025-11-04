@@ -83,5 +83,10 @@
     "SaleType",
     "SaleCondition"
   ],
-  "feature_count": 278
+  "feature_count": 278,
+  "splits": {
+    "train": 1022,
+    "val": 219,
+    "test": 219
+  }
 }

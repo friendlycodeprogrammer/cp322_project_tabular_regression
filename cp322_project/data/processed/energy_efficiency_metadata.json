@@ -9,5 +9,10 @@
     "X7",
     "X8"
   ],
-  "feature_count": 8
+  "feature_count": 8,
+  "splits": {
+    "train": 536,
+    "val": 116,
+    "test": 116
+  }
 }
