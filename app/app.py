@@ -9,12 +9,13 @@ import pandas as pd
 import streamlit as st
 from joblib import load
 
-MODEL_DIR = Path(__file__).resolve().parents[1] / "models"
+MODEL_DIR = Path(__file__).resolve().parents[1] / "cp322_project" / "models"
 
 
 @st.cache_resource(show_spinner=False)
 def load_model(filename: str):
     return load(MODEL_DIR / filename)
+
 
 
 def predict_house_price():
